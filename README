@@ -1,0 +1,11 @@
+1. install qemu
+
+sudo pacman -S qemu
+
+2. Download polyos-mobile images
+
+same to others
+
+3. run
+
+sh qemu_riscv64_run_archlinux.sh
